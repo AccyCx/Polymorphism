@@ -1,0 +1,9 @@
+﻿  Employee.cpp
+  Manager.cpp
+  Report.cpp
+  Salesperson.cpp
+  Technician.cpp
+  Test.cpp
+  正在生成代码...
+C:\Users\86173\Desktop\c++\2023337621069_ 陈靖轩_Lab 3 Polymorphism\Report.cpp(23,1): warning C4715: “Report::operator[]”: 不是所有的控件路径都返回值
+  2023337621069_ 陈靖轩_Lab 3 Polymorphism.vcxproj -> C:\Users\86173\Desktop\c++\2023337621069_ 陈靖轩_Lab 3 Polymorphism\x64\Debug\2023337621069_ 陈靖轩_Lab 3 Polymorphism.exe
